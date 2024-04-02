@@ -1,44 +1,26 @@
-# Customer Complaint Dashboard
-<b>video demonstration</b><br>
-![video](/Screenshots/demonstration.gif)
-<br>
+# Customer Complaints PowerBI Dashboard
 
-<b>screenshot</b><br>
-<img src="/Screenshots/Screenshot.png" alt="Image Description" width="600" height="400">
+Welcome to the Customer Complaints PowerBI Dashboard project repository!
 
-## Introduction
+## Overview
+This project aims to provide a comprehensive PowerBI dashboard for analyzing customer complaints data. By leveraging the capabilities of PowerBI, stakeholders can gain valuable insights into customer feedback, identify trends, and make data-driven decisions to improve customer satisfaction.
 
-This Power BI dashboard aims to provide comprehensive insights into customer complaints. It contains various visualizations that allow users to understand key metrics related to complaints, identify trends, and gain a deeper understanding of complaint types, products, channels, priorities, and customer satisfaction. The dashboard provides a holistic view of customer feedback, helping businesses make informed decisions to improve customer satisfaction.<br>
-<b> The dataset is obtained from Kaggle: https://shorturl.at/lAN57 </b>
+## Features
+- **Dynamic visualizations:** Interactive charts and graphs to visualize complaint data.
+- **User-friendly interface:** Easy-to-navigate dashboard for exploring insights.
+- **Data analysis:** Utilizes advanced PowerBI functionalities for in-depth data analysis.
+- **Actionable insights:** Provides actionable insights to address customer issues and enhance customer experience.
 
-## Project Insights
+## Getting Started
+To explore the Customer Complaints PowerBI Dashboard:
+1. Clone the repository: `git clone https://github.com/saroshan/powerbiprojects-Customer-Complaints-PowerBI-Dashboard.git`
+2. Open the project in PowerBI Desktop.
+3. Connect to your dataset and explore the dashboard.
 
-- **Total Complaint KPI**: This key performance indicator (KPI) provides a snapshot of the total number of customer complaints.
+## Contributors
+- [Roshan Sawant](https://github.com/saroshan)
 
-- **Closed Complaints KPI**: This KPI indicates the number of complaints that have been successfully resolved or closed.
+## Feedback
+We welcome your feedback and suggestions! Feel free to open an issue or reach out to us with any questions or ideas.
 
-- **Complaint Types Button**: Allows users to interact with the dashboard by filtering data based on different complaint types.
-
-- **Top 5 Products Complaints (Clustered Bar Chart)**: This chart visually displays the top 5 products that have received the most complaints.
-
-- **Complaints by Type (Clustered Bar Chart)**: This chart breaks down complaints by their type.
-
-- **Complaints by Channel (Clustered Bar Chart)**: This chart shows the distribution of complaints across different channels.
-
-- **Complaints by Priority (Donut Chart)**: The donut chart presents complaints categorized by their priority levels.
-
-- **Complaint Trends (Area Chart)**: This area chart tracks the trends of complaints for products purchased in 2020 and 2021.
-
-- **Customer Satisfaction Rating (Gauge Chart)**: The gauge chart provides an overview of customer satisfaction, helping assess overall customer sentiment.
-
-- **Complaints by State (Map)**: The map visualization displays the geographic distribution of complaints by state.
-
-## Installation Requirements
-
-To access and interact with this Power BI dashboard, you need:
-
-1. Download Power BI Desktop.
-
-2. Download the report file from this repository and open it on the PowerBI desktop.
-
-Feel free to explore the charts, filter data based on your requirements, and gain valuable insights into customer complaints.
+Thank you for visiting our repository! We hope you find the Customer Complaints PowerBI Dashboard insightful and valuable.
